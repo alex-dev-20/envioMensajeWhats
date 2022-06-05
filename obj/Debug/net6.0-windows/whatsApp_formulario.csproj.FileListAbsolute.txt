@@ -1,0 +1,17 @@
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\bin\Debug\net6.0-windows\whatsApp_formulario.exe
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\bin\Debug\net6.0-windows\whatsApp_formulario.deps.json
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\bin\Debug\net6.0-windows\whatsApp_formulario.runtimeconfig.json
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\bin\Debug\net6.0-windows\whatsApp_formulario.dll
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\bin\Debug\net6.0-windows\whatsApp_formulario.pdb
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.csproj.AssemblyReference.cache
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.Form1.resources
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.csproj.GenerateResource.cache
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.AssemblyInfoInputs.cache
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.AssemblyInfo.cs
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.dll
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\refint\whatsApp_formulario.dll
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.pdb
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\whatsApp_formulario.genruntimeconfig.cache
+C:\Users\Alexis\source\repos\whatsApp_formulario\whatsApp_formulario\obj\Debug\net6.0-windows\ref\whatsApp_formulario.dll
